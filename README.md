@@ -1,5 +1,3 @@
-# webdev_lab1
-Lab1 Repository
 # Insturctions for completeing Lab 1 
 ### Use the index.html template to create your first website.
 
